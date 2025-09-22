@@ -1,0 +1,32 @@
+# Byte compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.env
+.venv/
+env/
+venv/
+
+# Environment variables file
+.env
+
+# Streamlit specific secrets file
+.streamlit/secrets.toml
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE folders
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
